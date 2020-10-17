@@ -1,14 +1,20 @@
-<h1 align="center">Hi there 👋 It's me, <b>Indukilana Botheju<b> (a.k.a <b>Bahu<b>)</h1>
+<h1 align="center">Hi there 👋 It's me, Indukilana Botheju(Bahu)!</h1>
 
 
-Here are some ideas to get you started:
+<h3 align="center">Hi, I'm Indukilana Botheju, 🚀 from Colombo, Srilanka!</h3>
+    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Indukilana&color=brightgreen" alt="Indukilana" /> </p>
 
 - 🔭 I’m currently a student at **NSBM Green University Town.**
+
 - 🌱 I’m currently learning **Web Development and Cyber Security.**
+
 - 👯 I’m looking to collaborate on **Open Source projects.**
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about anything!
+
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: **I love Open Source!**
 
 
