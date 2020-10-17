@@ -78,6 +78,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indukilana&layout=compact"
         alt="Indukilana" /></p> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Indukilana&show_icons=true"
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Indukilana&show_icons=true"
         alt="Indukilana" /></p>
 
