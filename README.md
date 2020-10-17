@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 It's me, Indukilana Botheju(Bahu)!</h1>
+<h1 align="center">ආයුබෝවන් 🙏🏽 Hello World 👋 It's me, <br>Indukilana Botheju(Bahu)!</h1>
 
 
 <h3 align="center">Hi, I'm Indukilana Botheju, 🚀 from Colombo, Srilanka!</h3>
@@ -80,5 +80,5 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indukilana&layout=compact"
         alt="Indukilana" /></p>
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Indukilana&show_icons=true"
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Indukilana&show_icons=true"
         alt="Indukilana" /></p>
