@@ -17,9 +17,7 @@
 
 - ⚡ Fun fact: **I love Open Source!**
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/IpeYSEZshTefe" />
-
-<--<iframe src="https://giphy.com/embed/IpeYSEZshTefe" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe"></a></p>-->
+<img align="right" alt="GIF" src="https://giphy.com/embed/IpeYSEZshTefe/giphy.gif" />
 
 <p align="left">
 <h3 align="left">Connect with me 📫:</h3>
