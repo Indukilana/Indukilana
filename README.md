@@ -18,27 +18,27 @@
 - ⚡ Fun fact: **I love Open Source!**
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
+
 <p align="left">
 <h3 align="left">Connect with me 📫:</h3>
 
-<a href="https://dev.to/indukilana">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Indukilana Botheju's DEV Profile" height="30" width="30">
+<a href="https://dev.to/indukilana"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Indukilana Botheju's DEV Profile" height="30" width="40">
 </a>
-<a href="https://twitter.com/IndukilanaB" target="blank"><img 
+<a href="https://twitter.com/IndukilanaB" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="IndukilanaB" height="30"
-        width="30" /></a>
-<a href="hhtps://www.linkedin.com/in/indukilana-botheju" target="blank"><img 
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="indukilana-botheju"
-        height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/12262554/indukilana-botheju" target="blank"><img
+        width="40" /></a>
+<a href="hhtps://www.linkedin.com/in/indukilana-botheju" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="indukilana"
+        height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12262554/indukilana-botheju" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-        alt="users/12262554/indukilana-botheju" height="30" width="30" /></a>
-<a href="https://www.facebook.com/indukilana.botheju" target="blank"><img
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="buddhika.dananajaya/" height="30"
-        width="30" /></a>
-<a href="https://instagram.com/_bahushakthi_indukilana_" target="blank"><img
+        alt="users/12262554/indukilana-botheju" height="30" width="40" /></a>
+<a href="https://www.facebook.com/indukilana.botheju" target="blank"><img align="center"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="indukilana.botheju" height="30"
+        width="40" /></a>
+<a href="https://instagram.com/_bahushakthi_indukilana_" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_bahushakthi_indukilana_" height="30"
-        width="30" /></a>
+        width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
