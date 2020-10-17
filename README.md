@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 It's me, <b>Indukilana Botheju<b> (a.k.a <b>Bahu<b>)</h1>
 
 
 Here are some ideas to get you started:
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indukilana&layout=compact"
-        alt="BuddhikaD" /></p>
+        alt="Indukilana" /></p> <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Indukilana&show_icons=true"
-        alt="BuddhikaD" /></p>
+        alt="Indukilana" /></p>
 
