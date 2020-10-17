@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <a href="hhtps://www.linkedin.com/in/indukilana-botheju" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="indukilana-botheju"
         height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/11347476/buddhika-dananjaya" target="blank"><img align="center"
+<a href="https://stackoverflow.com/users/12262554/indukilana-botheju" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-        alt="users/11347476/buddhika-dananjaya" height="30" width="40" /></a>
+        alt="users/12262554/indukilana-botheju" height="30" width="40" /></a>
 <a href="https://www.facebook.com/indukilana.botheju" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="buddhika.dananajaya/" height="30"
         width="40" /></a>
