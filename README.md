@@ -23,7 +23,7 @@
 <a href="https://dev.to/buddhikad" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="BuddhikaD" height="30"
         width="40" /></a>
-<a href="https://twitter.com/IndukilanaB" target="blank"><img align="left"
+<a href="https://twitter.com/IndukilanaB" target="blank"><img align="center"
         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="IndukilanaB" height="30"
         width="40" /></a>
 <a href="hhtps://www.linkedin.com/in/indukilana-botheju" target="blank"><img align="center"
