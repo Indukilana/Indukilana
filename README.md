@@ -1,8 +1,7 @@
-<h1 align="center">ආයුබෝවන් 🙏🏽 Hello World 👋
-    I'm Indukilana Botheju(Bahu)!</h1>
+<h1 align="center">ආයුබෝවන් 🙏🏽 Hello World 👋</h1>
 
 
-<h3 align="center">Hi, I'm Indukilana Botheju, 🚀 from Colombo, Srilanka!</h3>
+<h3 align="center">I'm Indukilana Botheju, 🚀 from Colombo, Srilanka!</h3>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Indukilana&color=brightgreen" alt="Indukilana" /> </p>
 
