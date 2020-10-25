@@ -1,4 +1,5 @@
-<h1 align="center">ආයුබෝවන් 🙏🏽 Hello World 👋 It's me, <br>Indukilana Botheju(Bahu)!</h1>
+<h1 align="center">ආයුබෝවන් 🙏🏽 Hello World 👋
+    I'm Indukilana Botheju(Bahu)!</h1>
 
 
 <h3 align="center">Hi, I'm Indukilana Botheju, 🚀 from Colombo, Srilanka!</h3>
