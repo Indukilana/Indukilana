@@ -78,7 +78,7 @@
             src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react"
             width="40" height="40" /> </a> </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indukilana&layout=compact"
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indukilana&theme=dark&layout=compact"
         alt="Indukilana" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Indukilana&show_icons=true"
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Indukilana&theme=dark&show_icons=true"
         alt="Indukilana" /></p>
