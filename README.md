@@ -1,7 +1,9 @@
 <h1 align="center">ආයුබෝවන් 🙏🏽 Hello World 👋</h1>
 
 
-<h3 align="center">I'm Indukilana Botheju, 🚀 from Colombo, Srilanka!</h3>
+<h2 align="center">I'm Indukilana Botheju, 🚀 from Colombo, Srilanka!</h2>
+
+<h3 alighn="center">FOSS & Linux 🐧 | Cybersecurity Enthusiast 👨‍💻 | Blogger 📝 | Undergraduate 🎓</h3>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Indukilana&color=brightgreen" alt="Indukilana" /> </p>
 
