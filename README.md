@@ -65,6 +65,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br />
 <br />
+---
+### ⚡ &ensp;You can find my Articles here
+- [FOSS Community Sri-lanka Blog](https://blog.foss.lk/author/indukilana)
+- [FOSS Community NSBM Blog](https://fossnsbm.org/author/indukilana)
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indukilana&theme=dark&layout=compact"
         alt="Indukilana" /></p>
