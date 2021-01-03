@@ -3,7 +3,7 @@
 
 <h2 align="center">I'm Indukilana Botheju, 🚀 from Colombo, Srilanka!</h2>
 
-<h3 alighn="center">FOSS & Linux 🐧 | Cybersecurity Enthusiast 👨‍💻 | Blogger 📝 | Undergraduate 🎓</h3>
+<h3 align="center">FOSS & Linux 🐧 | Cybersecurity Enthusiast 👨‍💻 | Blogger 📝 | Undergraduate 🎓</h3>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Indukilana&color=brightgreen" alt="Indukilana" /> </p>
 
