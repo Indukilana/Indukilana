@@ -74,3 +74,7 @@
         alt="Indukilana" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Indukilana&theme=dark&show_icons=true"
         alt="Indukilana" /></p>
+
+<h2 align="center">Watch my contribution graph get eaten by the snake 🐍</h2>
+<p align="center">
+<img alt="Indukilanas Contri gif" src="https://github.com/Indukilana/Indukilana/blob/output/github-contribution-grid-snake.svg"></p>
